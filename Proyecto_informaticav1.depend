@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1700698129 source:c:\users\aaron\onedrive\documentos\informatica\proyecto_info\proyecto_informaticav1\main.c
+	<stdio.h>
+	<string.h>
+	"funciones.h"
+
+1700698134 c:\users\aaron\onedrive\documentos\informatica\proyecto_info\proyecto_informaticav1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
